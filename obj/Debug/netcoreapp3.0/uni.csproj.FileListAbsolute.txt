@@ -1,0 +1,11 @@
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni.deps.json
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni.runtimeconfig.json
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni.runtimeconfig.dev.json
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni.dll
+/Users/brian/Desktop/uni/bin/Debug/netcoreapp3.0/uni.pdb
+/Users/brian/Desktop/uni/obj/Debug/netcoreapp3.0/uni.csprojAssemblyReference.cache
+/Users/brian/Desktop/uni/obj/Debug/netcoreapp3.0/uni.AssemblyInfoInputs.cache
+/Users/brian/Desktop/uni/obj/Debug/netcoreapp3.0/uni.AssemblyInfo.cs
+/Users/brian/Desktop/uni/obj/Debug/netcoreapp3.0/uni.dll
+/Users/brian/Desktop/uni/obj/Debug/netcoreapp3.0/uni.pdb
